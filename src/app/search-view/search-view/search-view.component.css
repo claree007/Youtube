@@ -1,0 +1,16 @@
+  .example-card {
+    height: 20vh;
+    width: 10vw;
+    cursor: pointer;
+  }
+
+  mat-grid-tile {
+    width: 10vw;
+    height: auto;
+  }
+  .content {
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
